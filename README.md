@@ -8,3 +8,11 @@ The biggest challenge has been screen resolution as it's hard to know when you n
 Another idea was sparked by a comment on Twitter to take advatage of the entire day circle to layout your day's events. This has been surprisingly successful and I find it very handy to have this information available at a glance. One programming issue with WatchMaker is that it exposes events as variables and event1 is always the *next* event in your day. There doesn't appear to be any way to get all of your day's events at once.
 
 WatchMaker exports a watchface as a single file so it's hard to really collaborate on this on GitHub. Please feel free to download, reuse and install them into WatchMaker all you wish. If you *do* come up with something fun/different, please let me know!
+
+If you want to see the hands 'in action' open each of the gif files to see them run in elapsed time.
+
+Slow10 is my current favorite with a wedge shaped events. The next event turns red 5 minutes before the meeting starts. 
+![Slow10](slow10.jpg)
+
+Slow6 was my first properly working version with a 'relative minute hand' so you could see the fraction of the hour. It's relative to the hour hand not '12 noon' which some people find a bit silly. Like I said, I'm just experimenting here.
+![Slow6](slow6.jpg)
