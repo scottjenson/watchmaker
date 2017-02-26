@@ -1,6 +1,8 @@
 # watchmaker
 Some of my attempts at watchfaces using [WatchMaker](https://play.google.com/store/apps/details?id=slide.watchFrenzy&hl=en)
 
+The *.gif files are just there to give you an idea of what the watchface looks like. If you'd like to try it, you'll need to download the particular .watch file onto your watch and load into WatchMaker. Possible, but not easy I'm afraid.
+
 Things like Anacorn and Rotating dots were just experiments to see how things worked. My primary inspirtation was [24 hour watch faces](https://24hourtime.info/). The goal at least has been to create a 'slow time' watch where you can sense the movement of time through the day.  
 
 The biggest challenge has been screen resolution as it's hard to know when you need to leave for the 1pm meeting. Many of may experiments have been around solving that issue. 
